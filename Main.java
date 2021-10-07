@@ -1,7 +1,7 @@
 /**
  * 
  * @author Noah Burnette
- * @version 8/21/21 Project 1 CSCI202- Introduction to Data Structures
+ * @version 8/21/21 
  * 
  *          Main class simply holds the main method.
  *
